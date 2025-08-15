@@ -15,7 +15,7 @@
 
 - **🚀&nbsp; GitLab profile :** [gitlab.com/AdrianDC](https://gitlab.com/AdrianDC)
 - **🚀&nbsp; GitLab group :** [gitlab.com/RadianDevCore](https://gitlab.com/RadianDevCore)
-- **💻&nbsp; GitHub profile :** [github.com/AdrianDC](https://github.com/AdrianDC?tab=repositories)
+- **💻&nbsp; GitHub profile :** [github.com/AdrianDC](https://github.com/AdrianDC)
 - **🐍&nbsp; PyPI packages :** [adriandc@PyPI](https://pypi.org/user/adriandc/)
 - **🤖&nbsp; XDA profile :** [AdrianDC@xda-developers](https://forum.xda-developers.com/member.php?u=2233641)
 - **📱&nbsp; LineageOS Gerrit :** [AdrianDC@lineageos](https://review.lineageos.org/#/q/%22Adrian+DC%22)
